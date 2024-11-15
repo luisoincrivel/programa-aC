@@ -6,7 +6,7 @@ int main(){
 
  do{
 
-    printf("Digite um número par para sair do programa...");
+    printf("Digite um número par para sair do programa...\n");
     scanf("%d", &numero);
 
     if (numero % 2 == 0)
